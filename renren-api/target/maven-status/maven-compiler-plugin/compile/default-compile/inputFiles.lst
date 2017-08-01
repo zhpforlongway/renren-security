@@ -1,0 +1,15 @@
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\service\TokenService.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\api\ApiRegisterController.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\entity\UserEntity.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\annotation\LoginUser.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\entity\TokenEntity.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\api\ApiLoginController.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\service\UserService.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\annotation\IgnoreAuth.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\service\impl\UserServiceImpl.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\dao\TokenDao.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\service\impl\TokenServiceImpl.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\dao\UserDao.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\resolver\LoginUserHandlerMethodArgumentResolver.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\api\ApiTestController.java
+D:\workplace-taotao\renren-security\renren-api\src\main\java\io\renren\interceptor\AuthorizationInterceptor.java
